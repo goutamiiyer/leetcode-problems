@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd119be5-8a83-4d5e-8686-d998dda9b6c0" name="Default Changelist" comment="" />
+    <list default="true" id="fd119be5-8a83-4d5e-8686-d998dda9b6c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ValidParenthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +36,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1PFs0OcKSKaaOFS8yBRUc50aqaf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565479874148" />
@@ -66,7 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SingleNumber">
+  <component name="RunManager" selected="Application.ValidParenthesis">
     <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ContainsDuplicate" />
       <module name="Algorithms" />
@@ -95,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValidAnagram" />
+    <configuration name="ValidParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidParenthesis" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidParenthesis" />
         <item itemvalue="Application.SingleNumber" />
         <item itemvalue="Application.ContainsDuplicate" />
         <item itemvalue="Application.FirstUniqueCharacter" />
         <item itemvalue="Application.HappyNumber" />
-        <item itemvalue="Application.ValidAnagram" />
       </list>
     </recent_temporary>
   </component>
@@ -135,11 +144,27 @@
       <workItem from="1566253429304" duration="623000" />
       <workItem from="1566321543859" duration="2760000" />
       <workItem from="1566505512193" duration="7771000" />
+      <workItem from="1566779712769" duration="1329000" />
+      <workItem from="1566877766022" duration="29000" />
+      <workItem from="1566877863440" duration="3835000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="masterDetails">
     <states>
