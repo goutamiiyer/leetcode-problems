@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd119be5-8a83-4d5e-8686-d998dda9b6c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ValidParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PowerOfTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ValidParenthesis">
+  <component name="RunManager" selected="Application.PowerOfTwo">
     <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ContainsDuplicate" />
       <module name="Algorithms" />
@@ -90,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HappyNumber" />
+    <configuration name="PowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PowerOfTwo" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PowerOfTwo" />
         <item itemvalue="Application.ValidParenthesis" />
         <item itemvalue="Application.SingleNumber" />
         <item itemvalue="Application.ContainsDuplicate" />
         <item itemvalue="Application.FirstUniqueCharacter" />
-        <item itemvalue="Application.HappyNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +145,8 @@
       <workItem from="1566505512193" duration="7771000" />
       <workItem from="1566779712769" duration="1329000" />
       <workItem from="1566877766022" duration="29000" />
-      <workItem from="1566877863440" duration="3835000" />
+      <workItem from="1566877863440" duration="5213000" />
+      <workItem from="1567188915340" duration="1258000" />
     </task>
     <servers />
   </component>
