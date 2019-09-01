@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd119be5-8a83-4d5e-8686-d998dda9b6c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BuySellStock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/PowerOfTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/PowerOfTwo.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,16 +75,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PowerOfTwo">
-    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ContainsDuplicate" />
+  <component name="RunManager" selected="Application.BuySellStock">
+    <configuration name="BuySellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuySellStock" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstUniqueCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstUniqueCharacter" />
+    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContainsDuplicate" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BuySellStock" />
         <item itemvalue="Application.PowerOfTwo" />
         <item itemvalue="Application.ValidParenthesis" />
         <item itemvalue="Application.SingleNumber" />
         <item itemvalue="Application.ContainsDuplicate" />
-        <item itemvalue="Application.FirstUniqueCharacter" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +147,8 @@
       <workItem from="1566779712769" duration="1329000" />
       <workItem from="1566877766022" duration="29000" />
       <workItem from="1566877863440" duration="5213000" />
-      <workItem from="1567188915340" duration="1258000" />
+      <workItem from="1567188915340" duration="1946000" />
+      <workItem from="1567360613220" duration="1062000" />
     </task>
     <servers />
   </component>
