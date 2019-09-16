@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd119be5-8a83-4d5e-8686-d998dda9b6c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TwoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseInteger">
+  <component name="RunManager" selected="Application.TwoSum">
     <configuration name="BuySellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BuySellStock" />
       <module name="Algorithms" />
@@ -96,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingleNumber" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoSum" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.BuySellStock" />
         <item itemvalue="Application.PowerOfTwo" />
         <item itemvalue="Application.ValidParenthesis" />
-        <item itemvalue="Application.SingleNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,7 @@
       <workItem from="1566877863440" duration="5213000" />
       <workItem from="1567188915340" duration="1946000" />
       <workItem from="1567360613220" duration="2381000" />
-      <workItem from="1568593317599" duration="2662000" />
+      <workItem from="1568593317599" duration="4284000" />
     </task>
     <servers />
   </component>
@@ -185,6 +185,41 @@
           <url>file://$PROJECT_DIR$/src/main/java/ReverseInteger.java</url>
           <line>4</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TwoSum.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TwoSum.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TwoSum.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TwoSum.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TwoSum.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TwoSum.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TwoSum.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
