@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd119be5-8a83-4d5e-8686-d998dda9b6c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FindRepeating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InsertionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,7 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwoSum">
+  <component name="RunManager" selected="Application.FindRepeating">
     <configuration name="BuySellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BuySellStock" />
       <module name="Algorithms" />
@@ -82,8 +83,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PowerOfTwo" />
+    <configuration name="FindRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindRepeating" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertionSort" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,20 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValidParenthesis" />
-      <module name="Algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindRepeating" />
+        <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.BuySellStock" />
-        <item itemvalue="Application.PowerOfTwo" />
-        <item itemvalue="Application.ValidParenthesis" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +149,10 @@
       <workItem from="1566877863440" duration="5213000" />
       <workItem from="1567188915340" duration="1946000" />
       <workItem from="1567360613220" duration="2381000" />
-      <workItem from="1568593317599" duration="4284000" />
+      <workItem from="1568593317599" duration="6406000" />
+      <workItem from="1569005033715" duration="1346000" />
+      <workItem from="1569007820432" duration="3683000" />
+      <workItem from="1569076203624" duration="1684000" />
     </task>
     <servers />
   </component>
@@ -197,29 +201,14 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/TwoSum.java</url>
-          <line>20</line>
+          <url>file://$PROJECT_DIR$/src/main/java/InsertionSort.java</url>
+          <line>9</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/TwoSum.java</url>
-          <line>19</line>
+          <url>file://$PROJECT_DIR$/src/main/java/InsertionSort.java</url>
+          <line>16</line>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/TwoSum.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/TwoSum.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/TwoSum.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
