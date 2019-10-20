@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd119be5-8a83-4d5e-8686-d998dda9b6c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindRepeating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Increment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,16 +76,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindRepeating">
-    <configuration name="BuySellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BuySellStock" />
+  <component name="RunManager" selected="Application.Increment">
+    <configuration name="FindRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindRepeating" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindRepeating" />
+    <configuration name="Increment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Increment" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseInteger" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSort" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindRepeating" />
+        <item itemvalue="Application.Increment" />
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.FindRepeating" />
         <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.ReverseInteger" />
-        <item itemvalue="Application.BuySellStock" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +153,11 @@
       <workItem from="1568593317599" duration="6406000" />
       <workItem from="1569005033715" duration="1346000" />
       <workItem from="1569007820432" duration="3683000" />
-      <workItem from="1569076203624" duration="1684000" />
+      <workItem from="1569076203624" duration="6593000" />
+      <workItem from="1569382170263" duration="3185000" />
+      <workItem from="1570324979492" duration="536000" />
+      <workItem from="1571586607062" duration="34000" />
+      <workItem from="1571586699576" duration="684000" />
     </task>
     <servers />
   </component>
@@ -209,6 +214,31 @@
           <url>file://$PROJECT_DIR$/src/main/java/InsertionSort.java</url>
           <line>16</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/FindRepeating.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Increment.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Increment.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
