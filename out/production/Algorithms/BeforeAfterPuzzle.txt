@@ -1,0 +1,45 @@
+class Solution {
+    public List<String> beforeAndAfterPuzzles(String[] phrases) {
+        HashMap<String,List<Integer>> map = new HashMap<>();
+        HashSet<String> hset = new HashSet<>();
+        
+        for(int i = 0; i<phrases.length;i++){
+			// Split each phrase into words
+            String[] phraseWords = phrases[i].split(" ");
+			// Take the last word of each phrase
+            String lastWord = phraseWords[phraseWords.length-1];
+			// Check if last word exists in the map, otherwise put the last word
+            if(!map.containsKey(lastWord)) map.put(lastWord,new ArrayList<>());
+            map.get(lastWord).add(i);
+        }
+        
+        for(int i = 0; i<phrases.length;i++){
+			// Split each phrase into words
+            String[] phraseWords = phrases[i].split(" ");
+            
+			// Take the first and last word of each phrase
+            String firstWord = phraseWords[0];
+            String lastWord = phraseWords[phraseWords.length-1];
+            
+			// if 
+             if(map.containsKey(firstWord)){
+                List<Integer> firstWordList = map.get(firstWord);
+                 phraseWords[0] = "";
+                for(int j : firstWordList){
+					// ignore the same phrase
+                    if (i == j) continue;
+                    String firstWordPhrase = phrases[j]; 
+					// Join the first phrase and last phrase
+                    String finalString = firstWordPhrase + String.join(" ",phraseWords);
+                    hset.add(finalString);
+                }
+            }
+        }
+        
+        List<String> finalOutput = new ArrayList<>(hset);
+        Collections.sort(finalOutput);
+        return finalOutput;
+        
+
+    }
+}

@@ -1,0 +1,33 @@
+public List<String> beforeAndAfterPuzzles(String[] phrases) {
+	Map <String, List<Integer>> endWordMap = new HashMap<>();
+	
+	for (int i = 0; i < phrases.length; i++) {
+		int wordSplitIndex = phrases[i].lastIndexOf(" ");
+		String endWord = (wordSplitIndex == -1)? phrases[i]: phrases[i].substring(wordSplitIndex+1);
+		List<Integer> wordIndexList = endWordMap.getOrDefault(endWord, new ArrayList<Integer>());
+		wordIndexList.add(i);
+		endWordMap.put(endWord, wordIndexList);		
+	}
+	
+	Set<String> stringSet = new HashSet<>();
+	for (int i = 0; i < phrases.length; i++) {
+		int wordSplitIndex = phrases[i].indexOf(" ");
+		String startWord = (wordSplitIndex == -1)?phrases[i]:phrases[i].substring(0, wordSplitIndex);
+		if (endWordMap.containsKey(startWord)) {
+			List <Integer> indexList = endWordMap.get(startWord);
+			for(int index: indexList) {
+				if (index == i) {
+					continue;
+				}
+				String firstPhrase = phrases[index];
+				String lastString = phrases[i];
+				int tillSpace = lastString.indexOf(" ");
+				String lastPhrase = (tillSpace == -1) ? "" : lastString.substring(tillSpace);
+				stringSet.add(firstPhrase + lastPhrase);
+			}
+		}
+	}
+	List<String> phraseList = new ArrayList<>(stringSet);
+	Collections.sort(phraseList);
+	return phraseList;
+}
