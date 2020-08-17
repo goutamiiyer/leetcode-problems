@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd119be5-8a83-4d5e-8686-d998dda9b6c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/numOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DiameterOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LastStoneWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LongestSubstringKDistinctChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/increasingSumOfIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lengthLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/longestPalindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/maximumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/numberOfDistinctArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringManipulation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/LongestCommonSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/LongestCommonSubsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +58,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565479874148" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Fall 2019/CSE 5311 - Design and Analysis of Algorithms by Jesus Gonzalez/Programming Assignment 1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -69,37 +77,37 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.Evenodd">
-    <configuration name="Evenodd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Evenodd" />
+  <component name="RunManager" selected="Application.LongestSubstringKDistinctChars">
+    <configuration name="DiameterOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiameterOfBinaryTree" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestCommonSubsequence" />
+    <configuration name="LastStoneWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LastStoneWeight" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem3Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem3Class" />
+    <configuration name="LongestSubstringKDistinctChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestSubstringKDistinctChars" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseCharacters" />
+    <configuration name="increasingSumOfIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="increasingSumOfIntegers" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="numOfIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="numOfIslands" />
+    <configuration name="numberOfDistinctArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="numberOfDistinctArray" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Evenodd" />
-        <item itemvalue="Application.Problem3Class" />
-        <item itemvalue="Application.numOfIslands" />
-        <item itemvalue="Application.LongestCommonSubsequence" />
-        <item itemvalue="Application.ReverseCharacters" />
+        <item itemvalue="Application.LongestSubstringKDistinctChars" />
+        <item itemvalue="Application.increasingSumOfIntegers" />
+        <item itemvalue="Application.numberOfDistinctArray" />
+        <item itemvalue="Application.LastStoneWeight" />
+        <item itemvalue="Application.DiameterOfBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +186,28 @@
       <workItem from="1577713599013" duration="5450000" />
       <workItem from="1578080664493" duration="12000" />
       <workItem from="1578381148663" duration="174000" />
-      <workItem from="1578381597766" duration="716000" />
+      <workItem from="1578381597766" duration="10678000" />
+      <workItem from="1579007245272" duration="33000" />
+      <workItem from="1579007293248" duration="1121000" />
+      <workItem from="1581953722681" duration="5402000" />
+      <workItem from="1582162910043" duration="8939000" />
+      <workItem from="1583029183990" duration="846000" />
+      <workItem from="1583182272295" duration="430000" />
+      <workItem from="1583197839758" duration="15000" />
+      <workItem from="1583533628301" duration="14000" />
+      <workItem from="1585861857209" duration="2088000" />
+      <workItem from="1585934772209" duration="2667000" />
+      <workItem from="1586669709885" duration="6417000" />
+      <workItem from="1587266992086" duration="1285000" />
+      <workItem from="1587347370296" duration="471000" />
+      <workItem from="1587968635615" duration="1550000" />
+      <workItem from="1588132643638" duration="1209000" />
+      <workItem from="1595386723884" duration="2695000" />
+      <workItem from="1595461178519" duration="11450000" />
+      <workItem from="1596908413577" duration="3912000" />
+      <workItem from="1597196600883" duration="2652000" />
+      <workItem from="1597418769822" duration="939000" />
+      <workItem from="1597432766487" duration="3699000" />
     </task>
     <servers />
   </component>
@@ -199,10 +228,42 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="336" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1578381714876">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596910838446">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578381714876" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1596910838446" />
+    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1596910727197">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596910727197" />
+    <state width="1237" height="162" key="GridCell.Tab.0.bottom" timestamp="1597264424808">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597264424808" />
+    <state width="1237" height="162" key="GridCell.Tab.0.center" timestamp="1597264424807">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597264424807" />
+    <state width="1237" height="162" key="GridCell.Tab.0.left" timestamp="1597264424806">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597264424806" />
+    <state width="1237" height="162" key="GridCell.Tab.0.right" timestamp="1597264424808">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597264424808" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1597424618633">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1597424618633" />
+    <state x="336" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1597433209215">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1597433209215" />
+    <state x="0" y="0" width="739" height="680" key="find.popup" timestamp="1595553857546">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="739" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1595553857546" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -336,6 +397,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/Evenodd.java</url>
           <line>19</line>
           <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/longestPalindromicSubstring.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/longestPalindromicSubstring.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/longestPalindromicSubstring.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/longestPalindromicSubstring.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
