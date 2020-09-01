@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd119be5-8a83-4d5e-8686-d998dda9b6c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DiameterOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LastStoneWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LongestSubstringKDistinctChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/increasingSumOfIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lengthLongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/longestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/maximumSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/numberOfDistinctArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AdjacentCells.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GenerateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Permutations2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Subsets2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smallestsubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subArrayAverage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/LongestSubstringKDistinctChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/LongestSubstringKDistinctChars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LongestSubstringKDistinctChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LongestSubstringKDistinctChars.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,37 +76,37 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.LongestSubstringKDistinctChars">
-    <configuration name="DiameterOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DiameterOfBinaryTree" />
+  <component name="RunManager" selected="Application.AdjacentCells">
+    <configuration name="AdjacentCells" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdjacentCells" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastStoneWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LastStoneWeight" />
+    <configuration name="GenerateParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenerateParentheses" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubstringKDistinctChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestSubstringKDistinctChars" />
+    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Permutations" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="increasingSumOfIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="increasingSumOfIntegers" />
+    <configuration name="Permutations2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Permutations2" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="numberOfDistinctArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="numberOfDistinctArray" />
+    <configuration name="Subsets2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Subsets2" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongestSubstringKDistinctChars" />
-        <item itemvalue="Application.increasingSumOfIntegers" />
-        <item itemvalue="Application.numberOfDistinctArray" />
-        <item itemvalue="Application.LastStoneWeight" />
-        <item itemvalue="Application.DiameterOfBinaryTree" />
+        <item itemvalue="Application.AdjacentCells" />
+        <item itemvalue="Application.Permutations2" />
+        <item itemvalue="Application.Subsets2" />
+        <item itemvalue="Application.Permutations" />
+        <item itemvalue="Application.GenerateParentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +206,8 @@
       <workItem from="1596908413577" duration="3912000" />
       <workItem from="1597196600883" duration="2652000" />
       <workItem from="1597418769822" duration="939000" />
-      <workItem from="1597432766487" duration="3699000" />
+      <workItem from="1597432766487" duration="5146000" />
+      <workItem from="1597812231458" duration="36300000" />
     </task>
     <servers />
   </component>
@@ -232,34 +232,54 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1596910838446" />
+    <state width="401" height="438" key="DebuggerActiveHint" timestamp="1598897978991">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="401" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1598897978991" />
     <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1596910727197">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596910727197" />
-    <state width="1237" height="162" key="GridCell.Tab.0.bottom" timestamp="1597264424808">
+    <state width="1237" height="162" key="GridCell.Tab.0.bottom" timestamp="1598985661631">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597264424808" />
-    <state width="1237" height="162" key="GridCell.Tab.0.center" timestamp="1597264424807">
+    <state width="1237" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598985661631" />
+    <state width="1237" height="162" key="GridCell.Tab.0.center" timestamp="1598985661626">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597264424807" />
-    <state width="1237" height="162" key="GridCell.Tab.0.left" timestamp="1597264424806">
+    <state width="1237" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598985661626" />
+    <state width="1237" height="162" key="GridCell.Tab.0.left" timestamp="1598985661621">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597264424806" />
-    <state width="1237" height="162" key="GridCell.Tab.0.right" timestamp="1597264424808">
+    <state width="1237" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598985661621" />
+    <state width="1237" height="162" key="GridCell.Tab.0.right" timestamp="1598985661628">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597264424808" />
+    <state width="1237" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598985661628" />
+    <state width="1237" height="164" key="GridCell.Tab.1.bottom" timestamp="1598923005167">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598923005167" />
+    <state width="1237" height="164" key="GridCell.Tab.1.center" timestamp="1598923005166">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1598923005166" />
+    <state width="1237" height="164" key="GridCell.Tab.1.left" timestamp="1598923005166">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1598923005166" />
+    <state width="1237" height="164" key="GridCell.Tab.1.right" timestamp="1598923005167">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1598923005167" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1597424618633">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1597424618633" />
-    <state x="336" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1597433209215">
+    <state x="336" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1597812234408">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1597433209215" />
+    <state x="336" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1597812234408" />
     <state x="0" y="0" width="739" height="680" key="find.popup" timestamp="1595553857546">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -417,6 +437,121 @@
           <url>file://$PROJECT_DIR$/src/main/java/longestPalindromicSubstring.java</url>
           <line>35</line>
           <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Subsets.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Subsets.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Subsets.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Subsets.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GenerateParentheses.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GenerateParentheses.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GenerateParentheses.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GenerateParentheses.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GenerateParentheses.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/GenerateParentheses.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Permutations.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Permutations.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Permutations.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Permutations2.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Permutations2.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Permutations2.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Permutations2.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Permutations2.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Subsets2.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Subsets2.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Subsets2.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AdjacentCells.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AdjacentCells.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="82" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

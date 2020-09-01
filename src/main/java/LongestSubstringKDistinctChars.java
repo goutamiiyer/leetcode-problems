@@ -13,6 +13,7 @@ public class LongestSubstringKDistinctChars {
             while (map.size() > k) {
                 int charCount = map.get(s.charAt(start));
                 charCount--;
+                map.put(s.charAt(start), charCount);
                 if (charCount == 0) {
                     map.remove(s.charAt(start));
                 }
